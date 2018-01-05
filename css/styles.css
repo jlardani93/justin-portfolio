@@ -7,6 +7,7 @@ body {
   border: 12px solid black;
   margin-top: 20px;
   margin-bottom: 20px;
+  min-width: 600px;
 }
 
 .container .banner {
@@ -109,4 +110,8 @@ footer {
 
 p {
   margin-top: 10px;
+}
+
+.row>p {
+  text-indent: 50px;
 }
