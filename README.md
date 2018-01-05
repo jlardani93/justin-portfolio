@@ -10,7 +10,7 @@ _This is a portfolio website showcasing some of the projects Justin created whil
 
 ## Link to webpage
 
-_http://justinl93.github.io/justin-portfolio/_
+_https://jlardani93.github.io/justin-portfolio/_
 
 ## Setup/Installation Requirements
 
