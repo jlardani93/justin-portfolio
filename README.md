@@ -8,6 +8,10 @@
 
 _This is a portfolio website showcasing some of the projects Justin created while a student at Epicodus_
 
+## Link to webpage
+
+_http://justinl93.github.io/justin-portfolio/_
+
 ## Setup/Installation Requirements
 
 * _This is a webpage_
