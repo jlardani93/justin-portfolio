@@ -16,7 +16,7 @@ body {
   height: 200px;
   margin-top: 75px;
   background-image: url("../img/banner-background.jpg");
-  box-shadow: 0px 0px 25px black inset;
+  box-shadow: 0px 0px 50px black inset;
   font-family: inherit;
 }
 
@@ -29,6 +29,10 @@ body {
   height: 150px;
   position: relative;
   top: -75px;
+  border: 2px solid gray;
+  border-radius: 75px;
+  padding: -5px;
+  box-shadow: 0px 0px 25px black inset;
 }
 
 .centered {
@@ -109,10 +113,10 @@ td h3 {
   margin-right: 25px;
 }
 
-.icons img:hover {
+/*.icons img:hover {
   height: 125px;
   width: 125px;
-}
+}*/
 
 footer {
   text-align: center;
